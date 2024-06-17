@@ -1,8 +1,3 @@
-// "icon": "./assets/images/icon.png",
-      "image": "./assets/images/splash.png",
-     "favicon": "./assets/images/favicon.png"
-
-
 
 # Welcome to your Expo app 👋
 
